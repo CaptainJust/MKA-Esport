@@ -1,0 +1,57 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 29 May 2020 01:16:07 at http://etiget.org/ +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://etiget.org/ -O1 "C:\Users\Erhan Köse\Desktop\MKA Esports" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:16:10	Warning: 	Note: due to etiget.org remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+01:17:30	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): etiget.org/wp-content/plugins/tomparisde-twitchtv-widget/public/js/scripts.min.js?ver=2.0.5
+01:19:38	Warning: 	can not create directory to C:/Users/Erhan Köse/Desktop/MKA Esports/platform.twitter.com/widgets.js.z
+01:19:38	Error: 	Unable to save file C:/Users/Erhan Köse/Desktop/MKA Esports/platform.twitter.com/widgets.js: No error
+01:19:38	Warning: 	file not stored in cache due to bogus state (broken size, expected 29223 got 0): https://platform.twitter.com/widgets.js
+01:20:51	Error: 	"Not Found" (404) at link etiget.org/wp-content/uploads/2019/12/profil2.png (from etiget.org/)
+01:21:22	Error: 	"Not Found" (404) at link etiget.org/wp-content/themes/pixiebolt/assets/fonts/glyphicons-halflings-regular.eot (from etiget.org/wp-content/themes/pixiebolt/assets/css/bootstrap.min.css?ver=1.0)
+01:21:22	Error: 	"Not Found" (404) at link etiget.org/wp-content/themes/pixiebolt/assets/fonts/glyphicons-halflings-regular.eot? (from etiget.org/wp-content/themes/pixiebolt/assets/css/bootstrap.min.css?ver=1.0)
+01:21:22	Error: 	"Not Found" (404) at link etiget.org/wp-content/themes/pixiebolt/assets/fonts/glyphicons-halflings-regular.woff2 (from etiget.org/wp-content/themes/pixiebolt/assets/css/bootstrap.min.css?ver=1.0)
+01:21:23	Error: 	"Not Found" (404) at link etiget.org/wp-content/themes/pixiebolt/assets/fonts/glyphicons-halflings-regular.woff (from etiget.org/wp-content/themes/pixiebolt/assets/css/bootstrap.min.css?ver=1.0)
+01:21:23	Error: 	"Not Found" (404) at link etiget.org/wp-content/themes/pixiebolt/assets/fonts/glyphicons-halflings-regular.ttf (from etiget.org/wp-content/themes/pixiebolt/assets/css/bootstrap.min.css?ver=1.0)
+01:21:24	Error: 	"Not Found" (404) at link etiget.org/wp-content/themes/pixiebolt/assets/fonts/glyphicons-halflings-regular.svg (from etiget.org/wp-content/themes/pixiebolt/assets/css/bootstrap.min.css?ver=1.0)
+01:21:28	Error: 	"Not Found" (404) at link etiget.org/wp-content/themes/pixiebolt/assets/css/owl.video.play.png (from etiget.org/wp-content/themes/pixiebolt/assets/css/owl.carousel.css?ver=1.0)
+01:21:28	Warning: 	Moved Permanently for etiget.org/?p=73993
+01:21:28	Warning: 	File has moved from etiget.org/?p=73993 to http://etiget.org/team/
+01:21:28	Warning: 	Moved Permanently for etiget.org/?p=73997
+01:21:28	Warning: 	File has moved from etiget.org/?p=73997 to http://etiget.org/hakkimizda/
+01:21:28	Warning: 	Moved Permanently for etiget.org/?p=74000
+01:21:28	Warning: 	File has moved from etiget.org/?p=74000 to http://etiget.org/galeri/
+01:21:28	Warning: 	Moved Permanently for etiget.org/?p=74572
+01:21:28	Warning: 	File has moved from etiget.org/?p=74572 to http://etiget.org/2020/02/05/etiget-berlin-yolcusu/
+01:21:29	Warning: 	Moved Permanently for etiget.org/?p=74584
+01:21:29	Warning: 	File has moved from etiget.org/?p=74584 to http://etiget.org/gll-sezon-4-mea-elemeleri-1/
+01:21:29	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 29223 expected)) at link https://platform.twitter.com/widgets.js (from etiget.org/gll-sezon-4-mea-elemeleri-1/)
+01:21:29	Warning: 	Moved Permanently for etiget.org/?p=74537
+01:21:29	Warning: 	File has moved from etiget.org/?p=74537 to http://etiget.org/pgs-berlin-mea-kapali-elemeleri-final-grubu/
+01:21:29	Warning: 	Moved Permanently for etiget.org/?p=74507
+01:21:29	Warning: 	File has moved from etiget.org/?p=74507 to http://etiget.org/pgs-berlin-open-qualifier-mea-group-stage-b/
+01:21:29	Warning: 	Moved Permanently for etiget.org/?p=74464
+01:21:29	Warning: 	File has moved from etiget.org/?p=74464 to http://etiget.org/pubg-pgs-berlin-mea-acik-elemeleri-3-tur/
+01:21:29	Warning: 	Moved Permanently for etiget.org/?p=74607
+01:21:29	Warning: 	File has moved from etiget.org/?p=74607 to http://etiget.org/gll-sezon-4-mea-elemeleri-2-tur/
+01:21:30	Warning: 	can not create directory to C:/Users/Erhan Köse/Desktop/MKA Esports/platform.twitter.com/widgets.js.z
+01:21:30	Error: 	Unable to save file C:/Users/Erhan Köse/Desktop/MKA Esports/platform.twitter.com/widgets.js: No error
+01:21:30	Warning: 	file not stored in cache due to bogus state (broken size, expected 29223 got 0): https://platform.twitter.com/widgets.js
+01:21:30	Warning: 	Moved Permanently for etiget.org/?p=74621
+01:21:30	Warning: 	File has moved from etiget.org/?p=74621 to http://etiget.org/gll-sezon-4-mea-elemeleri-3-tur/
+01:21:30	Warning: 	Moved Permanently for etiget.org/?p=74174
+01:21:30	Warning: 	File has moved from etiget.org/?p=74174 to http://etiget.org/medya/
+01:21:31	Warning: 	Moved Permanently for etiget.org/?p=74002
+01:21:31	Warning: 	File has moved from etiget.org/?p=74002 to http://etiget.org/haberler/
+01:21:31	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 29223 expected)) at link https://platform.twitter.com/widgets.js (from etiget.org/gll-sezon-4-mea-elemeleri-1/)
+01:21:32	Warning: 	can not create directory to C:/Users/Erhan Köse/Desktop/MKA Esports/platform.twitter.com/widgets.js.z
+01:21:32	Error: 	Unable to save file C:/Users/Erhan Köse/Desktop/MKA Esports/platform.twitter.com/widgets.js: No error
+01:21:32	Warning: 	file not stored in cache due to bogus state (broken size, expected 29223 got 0): https://platform.twitter.com/widgets.js
+01:21:32	Error: 	"Incorrect length (0 Bytes, 29223 expected)" (-4) after 2 retries at link https://platform.twitter.com/widgets.js (from etiget.org/gll-sezon-4-mea-elemeleri-1/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 24 seconds : 151 links scanned, 127 files written (8098519 bytes overall) [8412629 bytes received at 25964 bytes/sec], 3.2 requests per connection
+(12 errors, 34 warnings, 0 messages)
